@@ -39,7 +39,7 @@ global.ErrorPic = fs.readFileSync("./Assets/pic7.jpg")
 
 global.ntilinkytvid = []
 global.ntilinkytch = []
-global.ntilinkinsta = []
+global.ntilinkig = []
 global.ntilinkfb = []
 global.ntilinktg = []
 global.ntilinktt = []
